@@ -1,8 +1,34 @@
-# React + Vite
+![Captura de tela 2024-01-11 221001](https://github.com/pauloesmelos/challenger-nike-react-tailwind/assets/74941958/8834b175-6a80-4b8f-95f6-22d6ee82072a)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Instalando o site.
 
-Currently, two official plugins are available:
+Para instalar o projeto, siga estas etapas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+```
+git clone https://github.com/pauloesmelos/challenger-nike-react-tailwind.git
+```
+```
+cd challenger-nike-react-tailwind
+```
+```
+npm install
+```
+```
+npm run dev
+```
+
+## 💻 Construído com:
+
+- Reactjs
+- CSS Animations
+- Tailwind
+- Vite
+
+## ☕ Imagens.
+
+![Captura de tela 2024-01-11 221001](https://github.com/pauloesmelos/challenger-nike-react-tailwind/assets/74941958/8834b175-6a80-4b8f-95f6-22d6ee82072a)
+
+![Captura de tela 2024-01-11 220943](https://github.com/pauloesmelos/challenger-nike-react-tailwind/assets/74941958/b1b59502-0c13-4696-a600-96aad8700122)
+
+![Captura de tela 2024-01-11 221031](https://github.com/pauloesmelos/challenger-nike-react-tailwind/assets/74941958/0d761518-32ef-45a9-b66f-5c7e526fcd83)
