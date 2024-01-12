@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary-dark: #333;
+    --primary-dark-light: #555;
+    --primary-white: #fff;
+}
+@layer base {
+    button {
+        @apply p-3 bg-gradient-to-r from-[var(--primary-dark)] to-[var(--primary-dark-light)] text-white
+        font-bold border-2 border-black
+    }
+    button:hover {
+       @apply bg-gradient-to-r from-[var(--primary-white)] to-[var(--primary-white)] text-black
+    }
+    h1 {
+        @apply text-4xl font-bold
+    }
+    span {
+        @apply font-bold text-lg
+    }
+}
